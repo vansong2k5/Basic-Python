@@ -1,2 +1,3 @@
 # Basic-Python
-Học nền tảng về Python
+###Learn the basics of Python
+
